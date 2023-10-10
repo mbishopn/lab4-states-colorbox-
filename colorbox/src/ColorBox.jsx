@@ -1,3 +1,10 @@
+/* 
+FullStack Web Development
+lab 4 - REACT - States -
+Manuel Bishop Noriega
+ID: 4362207
+*/
+
 import { useState } from "react";
 
 export default function ColorBox({colors}){
